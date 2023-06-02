@@ -1,4 +1,4 @@
-# Data Visualization for Investigating Hotel Business Performance
+# Visualizing Success: Investigating Hotel Business Performance using Data Visualization
 
 <p align="center">
   <img src="Images/banner.png" width="1024" height="auto">
